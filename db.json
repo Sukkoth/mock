@@ -1,0 +1,99 @@
+[
+  {
+    "id": "pr_1",
+    "name": "Project Alpha",
+    "description": "Design and develop a new website for a client.",
+    "color": "0xFF800080",
+    "deadline": "2024-04-20T00:00:00.000",
+    "createdAt": "2024-03-05T00:00:00.000",
+    "emoji": "⭐",
+    "status": "inProgress"
+  },
+  {
+    "id": "pr_2",
+    "name": "Product Enhancement",
+    "description": "Implement new features and improvements for the existing product.",
+    "color": "0xFF008000",
+    "deadline": "2024-04-10T00:00:00.000",
+    "createdAt": "2024-02-28T00:00:00.000",
+    "emoji": "🚀"
+  },
+  {
+    "id": "pr_3",
+    "name": "Event Planning",
+    "description": "Organize and manage a company-wide event.",
+    "color": "0xFFFFA500",
+    "deadline": "2024-04-08T00:00:00.000",
+    "createdAt": "2024-03-01T00:00:00.000",
+    "emoji": "👋",
+    "status": "terminated"
+  },
+  {
+    "id": "pr_4",
+    "name": "Research Initiative",
+    "description": "Conduct market research and analysis for a new product line.",
+    "color": "0xFF000080",
+    "deadline": "2024-04-18T00:00:00.000",
+    "createdAt": "2024-02-25T00:00:00.000",
+    "emoji": "🎉",
+    "status": "terminated"
+  },
+  {
+    "id": "pr_5",
+    "name": "Training Program",
+    "description": "Develop training materials and conduct workshops for employees.",
+    "color": "0xFFFF00FF",
+    "deadline": "2024-04-25T00:00:00.000",
+    "createdAt": "2024-02-20T00:00:00.000",
+    "emoji": "💎",
+    "status": "onHold"
+  },
+  {
+    "id": "pr_6",
+    "name": "Infrastructure Upgrade",
+    "description": "Upgrade server infrastructure to improve performance and reliability.",
+    "color": "0xFF800000",
+    "deadline": "2024-04-12T00:00:00.000",
+    "createdAt": "2024-02-22T00:00:00.000",
+    "emoji": "✨",
+    "status": "onHold"
+  },
+  {
+    "id": "pr_7",
+    "name": "Budget Analysis",
+    "description": "Analyze company budget and propose cost-saving measures.",
+    "color": "0xFF00CED1",
+    "deadline": "2024-04-28T00:00:00.000",
+    "createdAt": "2024-02-18T00:00:00.000",
+    "emoji": "🥰",
+    "status": "terminated"
+  },
+  {
+    "id": "pr_8",
+    "name": "Quality Assurance",
+    "description": "Perform thorough testing and quality assurance for the software release.",
+    "color": "0xFFDC143C",
+    "deadline": "2024-04-15T00:00:00.000",
+    "createdAt": "2024-03-08T00:00:00.000",
+    "emoji": "💵",
+    "status": "inProgress"
+  },
+  {
+    "id": "pr_9",
+    "name": "Content Creation",
+    "description": "Create engaging content for social media marketing.",
+    "color": "0xFF800080",
+    "deadline": "2024-04-22T00:00:00.000",
+    "createdAt": "2024-03-02T00:00:00.000",
+    "emoji": "💼"
+  },
+  {
+    "id": "pr_10",
+    "name": "Customer Survey",
+    "description": "Conduct a survey to gather feedback from customers.",
+    "color": "0xFF000080",
+    "deadline": "2024-04-30T00:00:00.000",
+    "createdAt": "2024-02-29T00:00:00.000",
+    "emoji": "⛳"
+  }
+]
