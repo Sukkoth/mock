@@ -1,4 +1,6 @@
-[
+{
+
+  "projects" : [
   {
     "id": "pr_1",
     "name": "Project Alpha",
@@ -97,3 +99,5 @@
     "emoji": "⛳"
   }
 ]
+
+}
